@@ -1,9 +1,15 @@
 ## Olá, sou o Murilo! 👋
 # Sobre mim:
 
-- Desenvolvedor
- 
+- Trabalho atual:
+* Projeto de pesquisa: Segurança da Informação em Dispositivos IoT
 
+- Atualmente aprendendo:
+* Python
+* Fundamentos de Cibersegurança
+ 
+- Contato:
+* LinkedIn: [murilohgsa](https://www.linkedin.com/in/murilohgsa)
 <!--
 **murilohgsa/murilohgsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
