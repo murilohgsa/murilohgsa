@@ -20,7 +20,6 @@ Atualmente atuo em um projeto de pesquisa voltado à segurança em dispositivos 
 - Desenvolvimento de scripts para automação e análise de segurança
 - Segurança em dispositivos IoT
  
-- Contato:
 * LinkedIn: [murilohgsa](https://www.linkedin.com/in/murilohgsa)
 
 # 🛠️ Linguagens Trabalhadas: 
