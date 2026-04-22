@@ -1,6 +1,6 @@
 ## Sou o Murilo! 👋
 # Sobre mim:
-Sou um estudante de Análise e Desenvolvimento De Sistemas. Gosto de sempre estar evoluindo com meus estudos e pesquisa.
+Sou um estudante de Análise e Desenvolvimento De Sistemas. Gosto de sempre estar evoluindo com meus estudos e pesquisas.
 
 🧠 Áreas de foco:
 
