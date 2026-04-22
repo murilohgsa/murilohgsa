@@ -13,9 +13,7 @@ Sou um estudante de Análise e Desenvolvimento De Sistemas. Gosto de sempre esta
 
 Atualmente atuo em um projeto de pesquisa voltado à segurança em dispositivos IoT, explorando vulnerabilidades, boas práticas e formas de proteção em ambientes conectados.
 
-🚀 Em constante evolução: 
-
-Estou aprimorando meus conhecimentos em:
+🚀 Aprimorando meus conhecimentos em:
 
 - Python aplicado à segurança
 - Ferramentas de cibersegurança
@@ -32,7 +30,6 @@ Estou aprimorando meus conhecimentos em:
 - C
 - HTML & CSS
 
-![Stats](https://github-readme-stats.vercel.app/api?username=murilohgsa)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilohgsa)
 <!--
 **murilohgsa/murilohgsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
