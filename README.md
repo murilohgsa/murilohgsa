@@ -30,7 +30,7 @@ Atualmente atuo em um projeto de pesquisa voltado à segurança em dispositivos 
 - C
 - HTML & CSS
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilohgsa)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilohgsa&theme=dark)
 <!--
 **murilohgsa/murilohgsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
